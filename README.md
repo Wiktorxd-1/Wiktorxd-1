@@ -29,6 +29,11 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11168&api_domain=hackatime.hackclub.com&theme=blue-green&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wiktorxd-1&style=flat-square" alt="Profile views" />
 </p>
