@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contact Me
 
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/WiktorXd_1)
 [![guns.lol](https://img.shields.io/badge/Guns.lol-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjM0cHgiIHZpZXdCb3g9IjAgMCAzNCAzNCIgd2lkdGg9IjM0cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgzNHYzNEgwVjB6Ii8+PC9zdmc+)](https://guns.lol/wiktoxd_1)
