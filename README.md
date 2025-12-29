@@ -7,14 +7,6 @@
   <img src="https://cdn.discordapp.com/emojis/1127222005289201794.webp?size=96&animated=false" alt="emoji" height="32" style="vertical-align:middle">
 </h1>
 
----
-
-
-
-## ℹ️ Stuff about me
-
-- 🎮 Playing games in my free time
-- 🚴‍♂️ Biking alot
 
 ---
 
